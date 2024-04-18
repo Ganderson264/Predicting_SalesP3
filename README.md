@@ -10,8 +10,13 @@ This repository contains the code and documentation for a data analysis project 
 Project Structure:
 
 
-Predicting_Sales_officialP3:Jupyter notebook containing the Python code for data extraction, cleaning, preprocessing, visualization, and analysis.
+Predicting_Sales_officialP3:
+
+
+Jupyter notebook containing the Python code for data extraction, cleaning, preprocessing, visualization, and analysis.
 Data: Directory containing the dataset used in the analysis (e.g., OnlineRetail.csv).
+
+
 Requirements:
 
 
@@ -28,6 +33,8 @@ Distribution of quantities purchased per transaction.
 Pricing structure of products.
 Geographic distribution of customers.
 Correlation between numerical features.
+
+
 Future Work:
 
 
